@@ -1,12 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2pearl)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2pearl)](https://github.com/anuraghazra/github-readme-stats)
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2pearl&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=2pearl&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)]
 <!--
 **2pearl/2pearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
