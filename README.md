@@ -26,6 +26,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"/>
 </div>
 <br>
 <div align=center>
@@ -34,6 +35,9 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
+	<img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+	<img src="https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20studio&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
