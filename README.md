@@ -7,7 +7,7 @@
 
 <div align=center>
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h3>🏆 Baekjoon solved🏆</h3>
 	
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)
 <img src="http://mazandi.herokuapp.com/api?handle=dlwlswn3539&theme=cold"/>
@@ -17,7 +17,7 @@
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+<!-- 	<p>✨ Platforms & Languages ✨</p> -->
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -41,7 +41,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -50,7 +50,6 @@
 	<img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 	<img src="https://img.shields.io/badge/android%20studio-346ac1?style=flat&logo=android%20studio&logoColor=white"/>
 	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
