@@ -4,6 +4,17 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=200&section=header&text=Pearl's%20Github!&fontSize=90" />	
 </div>
+
+<div align=center>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)
+<img src="http://mazandi.herokuapp.com/api?handle=dlwlswn3539&theme=cold"/>
+</div>
+<br>
+
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -44,11 +55,4 @@
 </div>
 <br>
 
-<div align=center>
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)
-<img src="http://mazandi.herokuapp.com/api?handle=dlwlswn3539&theme=cold"/>
-</div>
-<br>
+
