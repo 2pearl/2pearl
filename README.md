@@ -8,7 +8,7 @@
 <div align=center>
 <br>
 <h3>🏆 Baekjoon solved🏆</h3>
-	
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)
 <img src="http://mazandi.herokuapp.com/api?handle=dlwlswn3539&theme=cold"/>
 </div>
@@ -104,21 +104,21 @@
           <td>2023</td>
         </tr>
          <tr>
-          <td>University</td>
+          <td>대학교</td>
           <td>소통하는 주거환경</td>
           <td>Backend, DBA</td>
           <td>참여</td>
           <td>2021</td>
         </tr>
          <tr>
-          <td>University<br>(2020 IoT 경진대회)</td>
+          <td>대학교<br>(2020 IoT 경진대회)</td>
           <td>라떼는 판다야</td>
           <td>AI, Embedded</td>
           <td>우수상</td>
           <td>2020</td>
         </tr>
          <tr>
-          <td>University</td>
+          <td>대학교</td>
           <td>뭐먹냠 혼자먹냠</td>
           <td>Backend, DBA</td>
           <td>참여</td>
