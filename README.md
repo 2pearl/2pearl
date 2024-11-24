@@ -53,5 +53,77 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-
-
+<div align="center">
+    <h3>🏃 Activities 🏃‍</h3>
+</div>
+<div align="center">
+    <table>
+      <thead>
+        <tr>
+          <th>Organization</th>
+          <th>Activity</th>
+          <th>Position</th>
+          <th>Achieve</th>
+          <th>Duration</th>
+        </tr>
+      </thead>
+      <tbody>
+         <tr>
+          <td>SSAFY 11기</td>
+          <td><b><a href="https://github.com/2pearl/IJoA">IJoA</a></b></td>
+          <td>Backend, DBA, Infra</td>
+          <td>우수상</td>
+          <td>2024</td>
+        </tr>
+         <tr>
+          <td>SSAFY 11기</td>
+          <td><b><a href="https://github.com/2pearl/TravelUs">TravelUs</a></b></td>
+          <td>Backend, DBA</td>
+          <td>우수상</td>
+          <td>2024</td>
+        </tr>
+         <tr>
+          <td>SSAFY 11기<br>(2024 Shinhan-Hackathon)</td>
+          <td><b><a href="https://github.com/2024-Shinhan-Hackathon-ForeignKey/soltravel">Soltravel</a></b></td>
+          <td>Leader, Backend, DBA</td>
+          <td>참여</td>
+          <td>2024</td>
+        </tr>
+         <tr>
+          <td>SSAFY 11기</td>
+          <td><b><a href="https://github.com/2pearl/Saturi">사투리가 서툴러유</a></b></td>
+          <td>Leader, Backend, DBA</td>
+          <td>참여</td>
+          <td>2024</td>
+        </tr>
+         <tr>
+          <td>SSAFY 11기</td>
+          <td>WhereIsMyHome</td>
+          <td>Leader, Backend, DBA</td>
+          <td>참여</td>
+          <td>2023</td>
+        </tr>
+         <tr>
+          <td>University</td>
+          <td>소통하는 주거환경</td>
+          <td>Backend, DBA</td>
+          <td>참여</td>
+          <td>2021</td>
+        </tr>
+         <tr>
+          <td>University<br>(2020 IoT 경진대회)</td>
+          <td>라떼는 판다야</td>
+          <td>AI, Embedded</td>
+          <td>우수상</td>
+          <td>2020</td>
+        </tr>
+         <tr>
+          <td>University</td>
+          <td>뭐먹냠 혼자먹냠</td>
+          <td>Backend, DBA</td>
+          <td>참여</td>
+          <td>2020</td>
+        </tr>
+      </tbody>
+    </table>
+</div>
