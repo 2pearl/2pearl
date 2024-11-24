@@ -98,10 +98,10 @@
         </tr>
          <tr>
           <td>SSAFY 11기</td>
-          <td>WhereIsMyHome</td>
+	  <td><b><a href="https://github.com/2pearl/WhereIsMyHome">WhereIsMyHome</a></b></td>
           <td>Leader, Backend, DBA</td>
           <td>참여</td>
-          <td>2023</td>
+          <td>2024</td>
         </tr>
          <tr>
           <td>대학교</td>
