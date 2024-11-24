@@ -70,7 +70,7 @@
       <tbody>
          <tr>
           <td>SSAFY 11기</td>
-          <td><b><a href="https://github.com/2pearl/IJoA">IJoA</a></b></td>
+          <td><b><a href="https://github.com/2pearl/IJoA">IJoA(아이조아)</a></b></td>
           <td>Backend, DBA, Infra</td>
           <td>우수상</td>
           <td>2024</td>
