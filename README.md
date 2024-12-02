@@ -105,21 +105,21 @@
         </tr>
          <tr>
           <td>대학교</td>
-          <td>소통하는 주거환경</td>
+          td><b><a href="https://github.com/2pearl/happy_home">소통하는주거환경</a></b></td>
           <td>Backend, DBA</td>
           <td>참여</td>
           <td>2021</td>
         </tr>
          <tr>
           <td>대학교<br>(2020 IoT 경진대회)</td>
-          <td>라떼는 판다야</td>
+          td><b><a href="https://github.com/2pearl/LatteIsPanda">라떼는판다야</a></b></td>
           <td>AI, Embedded</td>
           <td>우수상</td>
           <td>2020</td>
         </tr>
          <tr>
           <td>대학교</td>
-          <td>뭐먹냠 혼자먹냠</td>
+          td><b><a href="https://github.com/2pearl/nyam_project">뭐먹냠혼자먹냠</a></b></td>
           <td>Backend, DBA</td>
           <td>참여</td>
           <td>2020</td>
