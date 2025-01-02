@@ -72,19 +72,19 @@
           <td>SSAFY 11기</td>
           <td><b><a href="https://github.com/2pearl/IJoA">IJoA(아이조아)</a></b></td>
           <td>Backend, DBA, Infra</td>
-          <td>우수상</td>
+          <td>🏆우수상</td>
           <td>2024</td>
         </tr>
          <tr>
           <td>SSAFY 11기</td>
-          <td><b><a href="https://github.com/2pearl/TravelUs">TravelUs</a></b></td>
+          <td><b><a href="https://github.com/2pearl/TravelUs">TravelUs(트래블어스)</a></b></td>
           <td>Backend, DBA</td>
-          <td>우수상</td>
+          <td>🏆우수상</td>
           <td>2024</td>
         </tr>
          <tr>
           <td>SSAFY 11기<br>(2024 Shinhan-Hackathon)</td>
-          <td><b><a href="https://github.com/2024-Shinhan-Hackathon-ForeignKey/soltravel">Soltravel</a></b></td>
+          <td><b><a href="https://github.com/2024-Shinhan-Hackathon-ForeignKey/soltravel">Soltravel(솔트래블)</a></b></td>
           <td>Leader, Backend, DBA</td>
           <td>참여</td>
           <td>2024</td>
@@ -114,7 +114,7 @@
           <td>대학교<br>(2020 IoT 경진대회)</td>
           <td><b><a href="https://github.com/2pearl/LatteIsPanda">라떼는판다야</a></b></td>
           <td>AI, Embedded</td>
-          <td>우수상</td>
+          <td>🏆우수상</td>
           <td>2020</td>
         </tr>
          <tr>
