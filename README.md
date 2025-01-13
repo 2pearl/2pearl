@@ -9,8 +9,8 @@
 <br>
 <h3>🏆 Baekjoon solved🏆</h3>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)
-<img src="http://mazandi.herokuapp.com/api?handle=dlwlswn3539&theme=cold"/>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2pearl)
+<img src="http://mazandi.herokuapp.com/api?handle=2pearl&theme=cold"/>
 </div>
 <br>
 
