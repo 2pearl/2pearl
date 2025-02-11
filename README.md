@@ -2,13 +2,13 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=200&section=header&text=Pearl's%20Github!&fontSize=90" />	
 </div>
 
-## 🏆 Baekjoon solved 🏆
+## 🏆 Baekjoon solved
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2pearl)
 <img src="http://mazandi.herokuapp.com/api?handle=2pearl&theme=cold"/>
 
 
-## 🛠 Tech Stack 🛠
+## 🛠 Tech Stack
 
 #### - Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 
-## 🏃 Activities 🏃
+## 🏃 Activities
 <table>
       <thead>
         <tr>
@@ -58,14 +58,14 @@
         </tr>
          <tr>
           <td>SSAFY 11기</td>
-          <td><b>사투리가 서툴러유</b></td>
+          <td>사투리가 서툴러유</td>
           <td>Leader, Backend, DBA</td>
           <td>참여</td>
           <td>2024</td>
         </tr>
          <tr>
           <td>SSAFY 11기</td>
-	  <td><b>WhereIsMyHome</a></b></td>
+	  <td>WhereIsMyHome</td>
           <td>Leader, Backend, DBA</td>
           <td>참여</td>
           <td>2024</td>
