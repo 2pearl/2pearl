@@ -58,14 +58,14 @@
         </tr>
          <tr>
           <td>SSAFY 11기</td>
-          <td><b><a href="https://github.com/2pearl/Saturi">사투리가 서툴러유</a></b></td>
+          <td><b>사투리가 서툴러유</b></td>
           <td>Leader, Backend, DBA</td>
           <td>참여</td>
           <td>2024</td>
         </tr>
          <tr>
           <td>SSAFY 11기</td>
-	  <td><b><a href="https://github.com/2pearl/WhereIsMyHome">WhereIsMyHome</a></b></td>
+	  <td><b>WhereIsMyHome</a></b></td>
           <td>Leader, Backend, DBA</td>
           <td>참여</td>
           <td>2024</td>
