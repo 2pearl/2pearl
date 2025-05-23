@@ -1,13 +1,3 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=200&section=header&text=Pearl's%20Github!&fontSize=90" />	
-</div>
-
-## 🏆 Baekjoon solved
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2pearl)
-<img src="http://mazandi.herokuapp.com/api?handle=2pearl&theme=cold"/>
-
-
 ## 🛠 Tech Stack
 
 #### - Language
